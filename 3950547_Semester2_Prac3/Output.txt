@@ -1,0 +1,6 @@
+From 'Moletsane Secondary School' to 'Freedom Primary School' is 0.46431354983917295km
+From 'Moletsane Secondary School' to 'Winnie Madikizela-Mandela School' is 1.7976931348623157E308km
+From 'Tshilidzi Primary School' to 'Winnie Madikizela-Mandela School' is 1.7976931348623157E308km
+From 'Tshilidzi Primary School' to 'Siyabonga Secondary School' is 1.7976931348623157E308km
+From 'Lufhereng High School' to 'Saint Barnabas College' is 1.7976931348623157E308km
+From 'Kliptown Primary School' to 'Enkolweni Primary School' is 1.7976931348623157E308km
